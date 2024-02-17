@@ -1,0 +1,12 @@
+
+=====colors=====
+red: #FD511A
+green: #21B573
+black: #000000
+
+background color: #F0FFF0 for banner
+				  #282531 for footer top
+
+=====fonts=====
+Poppins 400, 700
+Roboto 400
